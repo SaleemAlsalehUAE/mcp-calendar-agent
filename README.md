@@ -211,7 +211,7 @@ A short demo video of this project will be shared on LinkedIn, showing:
 **Saleem Alsaleh**  
 AI / MCP / .NET / Semantic Kernel  
 GitHub: [SaleemAlsalehUAE](https://github.com/SaleemAlsalehUAE)  
-LinkedIn: [SaleemAlsalehUAE](linkedin.com/in/saleem-alsaleh-uae)  
+LinkedIn: [SaleemAlsalehUAE](https://linkedin.com/in/saleem-alsaleh-uae)  
 
 ---
 
