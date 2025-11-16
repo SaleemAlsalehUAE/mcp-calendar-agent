@@ -1,0 +1,17 @@
+# Build and IDE
+bin/
+obj/
+.vs/
+
+# Secrets
+credentials.json
+secrets.json
+*.secrets.json
+TokenResponse-*.json
+
+# Google OAuth local token
+*.Google.Apis.Auth*
+
+# User-specific
+*.user
+*.suo
